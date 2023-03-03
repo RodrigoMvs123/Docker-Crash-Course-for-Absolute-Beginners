@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=pg19Z8LL06w
 
 https://raw.githubusercontent.com/RodrigoMvs123/Docker-Crash-Course-for-Absolute-Beginners/main/README.md
 
+https://github.com/RodrigoMvs123/Docker-Crash-Course-for-Absolute-Beginners/blame/main/README.md
+
 https://docs.docker.com/get-docker/
 
 
